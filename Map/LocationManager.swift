@@ -83,5 +83,4 @@ class LocationManager : NSObject, CLLocationManagerDelegate {
             getInfo(location)
         }
     }
-    
 }

@@ -319,6 +319,8 @@
 				DEVELOPMENT_TEAM = E9KS5E39JS;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Map/Info.plist;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "Conocer su ubicación";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Conocer su ubicación";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -351,6 +353,8 @@
 				DEVELOPMENT_TEAM = E9KS5E39JS;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Map/Info.plist;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "Conocer su ubicación";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Conocer su ubicación";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
